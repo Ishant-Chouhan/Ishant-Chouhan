@@ -1,7 +1,7 @@
 👋Hi, this is Ishant Chouhan.
 A data science enthusiast from India.
 
-🔴currently learning data analytics, data vizualization, ETL (Extract Transfrom and Load), data manipulation
+🔴currently learning Data Science, data analytics, data vizualization, ETL (Extract Transfrom and Load), data manipulation
 
 technologies:
 -📊SQL
