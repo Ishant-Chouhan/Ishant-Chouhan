@@ -6,12 +6,12 @@ A data science enthusiast from India.
 technologies:<br>
 -📊SQL<br>
 -📉Python<br>
-<tab>    -Pandas<br>
-<tab>    -Numpy<br>
-<tab>    -matplotlib<br>
-<tab>    -seaborn<br>
-<tab>   -opencv<br>
-<tab>    -Tenserflow<br>
+   -Pandas<br>
+   -Numpy<br>
+   -matplotlib<br>
+   -seaborn<br>
+   -opencv<br>
+ -Tenserflow<br>
 -📝Excel<br>
 -📊PowerBI<br>
 -📈Tableau<br>
