@@ -26,4 +26,4 @@ technologies:<br>
    -Did my schooling from Kendriya Vidhyalaya No.2, Bhopal<br>
 
 SOCIAL MEDIA:<br>
--<a href="https://www.linkedin.com/in/ishant-chouhan-30b07928a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ishant Chouhan" height="30" width="40"/><a>
+-<a href="https://www.linkedin.com/in/ishant-chouhan-30b07928a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ishant Chouhan" height="30" width="75"/><a>
